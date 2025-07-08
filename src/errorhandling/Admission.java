@@ -26,8 +26,8 @@ public class Admission {
         System.out.println("Age: "+ stdAge);
         System.out.println("Gender"+ stdGender);
         System.out.println("Grade Level"+ stdGradeLevel);
-    
-    
+        System.out.println("");
+        System.out.println("");
     }
     
     
